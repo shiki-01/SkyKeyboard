@@ -8,9 +8,9 @@ export default defineConfig({
 		VitePWA({
 			registerType: 'autoUpdate',
 			manifest: {
-				name: 'Sudokit',
-				short_name: 'Sudokit',
-				description: 'A simple sudoku game',
+				name: 'SkyKeyboard',
+				short_name: 'SkyKeyboard',
+				description: 'A simple keyboard for the web',
 				theme_color: '#ffffff',
 				icons: [
 					{
