@@ -1,6 +1,6 @@
 {
-  "name": "Skykeyboard",
-  "short_name": "Skykeyboard",
+  "name": "SkyKeyboard",
+  "short_name": "SkyKeyboard",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
